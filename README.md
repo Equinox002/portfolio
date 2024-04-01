@@ -3,7 +3,7 @@
 ## About Me :dizzy:
 
 
-# A portfolio website to know about Alphadead, his contributions and work. 
+# A portfolio website to know about Equinox, his contributions and work. 
 
 **Languages and Tools used:** :computer:	
 
